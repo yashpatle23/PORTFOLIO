@@ -1,0 +1,129 @@
+.experience-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.experience-cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+}
+
+.experience-footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #0be779;
+  cursor: pointer;
+}
+.experience-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.experience-cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px; /* Increased gap for better spacing */
+  width: 100%;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 350px; /* Increased width for larger cards */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card-image {
+  width: 100%;
+  height: 220px; /* Increased height for larger images */
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.card-description {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.card-links {
+  display: flex;
+  gap: 10px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.experience-footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #0be779;
+  cursor: pointer;
+}
+
+
+.experience {
+  position: relative;
+  background-color: #2c323f;
+}
+.experience-content {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+.experience-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  padding-left: 0;
+  list-style: none;
+  margin: 0 auto;
+}
+.experience-list > li {
+  border-radius: 5px;
+  margin: 20px 10px;
+  width: 390px;
+  min-width: 290px;
+}
+.experience-list > li > div {
+  height: 100%;
+}
+
+.textLink {
+  color: #0be779;
+  cursor: pointer;
+}

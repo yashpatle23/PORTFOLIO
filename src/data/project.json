@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "1.png",
+            "title": "Life Line",
+            "description": "A prototype version of a Accident data Analysis dashboard application.",
+            "links": [
+                {
+                    "key": "Link",
+                    "url": "https://life-line.streamlit.app/"
+                    
+                },
+                {
+                    "key": "GitHub",
+                    "url": "https://github.com/yashpatle23/life-line"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "2.png",
+            "title": "Smakathon Gurukul",
+            "description": "A Education platform project developed during the 24-hour Smakathon hackathon.",
+            "links": [
+                
+                {
+                    "key": "GitHub",
+                    "url": "https://github.com/yashpatle23/Smakathon-Gurukul"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "image": "3.png",
+            "title": "Datanoid",
+            "description": "A Data science learning platform made in first hackathon.",
+            "links": [
+                {
+                    "key": "Link",
+                    "url": "https://datanoid.vercel.app/"
+                },
+                {
+                    "key": "GitHub",
+                    "url": "https://github.com/yashpatle23/Datanoid"
+                }
+            ]
+        }
+    ]
+}

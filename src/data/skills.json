@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Compitative Programming",
+      "amount": "90"
+    },
+    {
+      "id": 1,
+      "skillName": "HTML/CSS/Javascript",
+      "amount": "85"
+    },
+    {
+      "id": 2,
+      "skillName": "Python",
+      "amount": "70"
+    },
+    { "id": 3, "skillName": "Git/Github", "amount": "70" },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "65"
+    },
+    {
+      "id": 5,
+      "skillName": "React.js",
+      "amount": "65"
+    },
+    { "id": 6, "skillName": "Backend", "amount": "65" },
+    { "id": 7, "skillName": "Data Analysis", "amount": "60" },
+    {
+      "id": 8,
+      "skillName": "Machine Learning",
+      "amount": "60"
+    }
+  ]
+}

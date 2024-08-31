@@ -1,0 +1,56 @@
+.experience-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px; /* Increased gap for better spacing */
+  width: 100%;
+}
+
+.card {
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 380px; /* Increased width for larger cards */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center; /* Center-aligns the content */
+}
+
+.card:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card-image {
+  width: 100%;
+  height: 240px; /* Increased height for larger images */
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-title {
+  font-size: 1.6rem;
+  margin: 10px 0;
+  color: black; /* Set the title font color to black */
+}
+
+.card-description {
+  font-size: 1rem;
+  color: #000000;
+  margin-bottom: 15px;
+}
+
+.card-links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
