@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌟<br>React Portfolio</h1>
   <h3>One-Page Portfolio built with React.js</h3>
-  <h3><a href="https://your-portfolio-link-here" target="_blank">Live Preview</a></h3>
+  <h3><a href="https://yashpatle23.github.io/PORTFOLIO/" target="_blank">Live Preview</a></h3>
 </div>
 
 <div align="center">
