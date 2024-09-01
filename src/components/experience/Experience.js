@@ -6,7 +6,7 @@ import ExperienceCard from '../experienceCard/ExperienceCard';
 
 const Experience = () => {
   return (
-    <Section title="Experience">
+    <Section title="Projects">
       <div className="experience-content">
         <Fade bottom duration={1200} distance="20px">
           <div className="experience-cards-container">
