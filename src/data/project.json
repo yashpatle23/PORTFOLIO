@@ -23,7 +23,11 @@
             "title": "Smakathon Gurukul",
             "description": "A Education platform project developed during the 24-hour Smakathon hackathon.",
             "links": [
-                
+                {
+                    "key": "Link",
+                    "url": "https://smakathon-gurukul.vercel.app/"
+                    
+                },
                 {
                     "key": "GitHub",
                     "url": "https://github.com/yashpatle23/Smakathon-Gurukul"
